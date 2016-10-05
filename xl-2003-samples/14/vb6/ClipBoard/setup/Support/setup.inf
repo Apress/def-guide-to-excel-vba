@@ -1,0 +1,29 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Thu Aug 17 15:14:12 2000           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.603.4 (06/25/98)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,ClipBrd.CAB
+[file list]
+1,0,Setup.Lst,3455
+1,0,setup.exe,139776
+1,1,ClipBrd.dll,24576
+1,1,msvbvm60.dll,1384448
+1,1,OLEAUT32.DLL,598288
+1,1,OLEPRO32.DLL,164112
+1,1,ASYCFILT.DLL,147728
+1,1,STDOLE2.TLB,17920
+1,1,COMCAT.DLL,22288
+1,1,SETUP1.EXE,249856
+1,1,VB6STKIT.DLL,101888
+1,1,ST6UNST.EXE,73216
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Thu Aug 17 15:14:12 2000           **
+;**                                                                **
+;*** END ************************************************************

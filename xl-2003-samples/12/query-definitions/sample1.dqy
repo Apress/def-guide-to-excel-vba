@@ -1,0 +1,7 @@
+XLODBC
+1
+DBQ=I:\Code\XL-2000\NWIND.MDB;DefaultDir=I:\Code\XL-2000;Driver={Microsoft Access Driver (*.mdb)};DriverId=25;FIL=MS Access;MaxBufferSize=2048;MaxScanRows=8;PageTimeout=5;SafeTransactions=0;Threads=3;UID=admin;UserCommitSync=Yes;
+SELECT Products.ProductID, Products.ProductName, Products.UnitPrice  FROM `I:\Code\XL-2000\NWIND`.Products Products
+
+
+ProductID	ProductName	UnitPrice

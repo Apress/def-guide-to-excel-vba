@@ -1,0 +1,3 @@
+   123.456,23  text without quotes (but with special characters הצü)
+    23.456,23  text 
+    -3.456,23  text

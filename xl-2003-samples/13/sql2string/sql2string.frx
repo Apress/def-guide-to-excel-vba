@@ -1,0 +1,2 @@
+sql = "SELECT * FROM tabelle"
+SELECT * FROM tabelle

@@ -1,0 +1,81 @@
+[Root]
+Most Recent Package=Standardm‰ﬂiges Setup-Paket 1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=n:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\setup
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Added]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files In Project]
+H:\WINNT4\system32\msvbvm60.dll=Yes
+H:\WINNT4\system32\OLEAUT32.DLL=Yes
+H:\WINNT4\system32\OLEPRO32.DLL=Yes
+H:\WINNT4\system32\ASYCFILT.DLL=Yes
+H:\WINNT4\system32\STDOLE2.TLB=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+H:\WINNT4\system32\VB6DE.DLL=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+H:\WINNT4\system32\VB6STKIT.DLL=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+N:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\ClipBrd.dll=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Install Locations]
+I:\Code\XL-2000\vb6\ClipBoard\ClipBrd.dll=$(AppPath)
+H:\WINNT4\system32\msvbvm60.dll=$(WinSysPathSysFile)
+H:\WINNT4\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\VB6DE.DLL=$(WinSysPath)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+H:\WINNT4\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+N:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\ClipBrd.dll=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Shared Files]
+Applicable=Yes
+I:\Code\XL-2000\vb6\ClipBoard\ClipBrd.dll=No
+N:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\ClipBrd.dll=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Distribution]
+Type=single
+Size=
+Title=ClipBrd
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Package]
+PackageFolder=n:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\setup
+ProjectFolder=N:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard
+ServerSideCab=
+File1=n:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\setup\setup.exe
+File2=n:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\setup\Setup.Lst
+File3=n:\xl2000e\engl-final\cd-rom\samplecode\vb6\ClipBoard\setup\ClipBrd.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,1374 @@
+ 2            &Spelling...
+ 3            &Save
+ 4            &Print...
+ 18           &New...
+ 19           &Copy
+ 21           Cu&t
+ 22           &Paste
+ 23           Open
+ 37           &Repeat Delete
+ 42           &Microsoft Word
+ 47           Clear Contents
+ 51           Custom
+ 52           &Piggy Bank
+ 59           Custom
+ 60           &Double Underline
+ 67           Custom
+ 68           Custom
+ 106          &Close
+ 107          AutoFormat
+ 108          &Format Painter
+ 109          Print Pre&view
+ 112          Custom
+ 113          &Bold
+ 114          &Italic
+ 115          &Underline
+ 117          &Custom
+ 118          &Dark Shading
+ 120          Align &Left
+ 121          Align &Right
+ 122          &Center
+ 123          &Justify
+ 124          What's &This?
+ 126          Custom
+ 128          &Undo
+ 129          &Redo
+ 130          &Line
+ 139          Te&xt Box
+ 140          &Find File...
+ 145          &Top Border
+ 146          &Bottom Border
+ 147          &Left Border
+ 148          &Right Border
+ 149          Apply Inside Borders
+ 150          &Outside Borders
+ 151          Clear Border
+ 164          &Group
+ 165          &Ungroup
+ 166          Bring to Fron&t
+ 167          Send to Bac&k
+ 170          Bring &Forward
+ 171          Send &Backward
+ 178          F&ull Screen
+ 182          &Select Objects
+ 184          &Record New Macro...
+ 186          &Macros...
+ 187          Step Macro
+ 189          Resume Macro
+ 196          Flip &Horizontal
+ 197          Flip &Vertical
+ 198          Rotate &Right
+ 199          Rotate &Left
+ 200          &Freeform
+ 203          &Borders
+ 204          &Drawing
+ 206          &Edit Points
+ 210          Sort &Ascending
+ 211          Sort Des&cending
+ 219          &Edit Box
+ 220          &Check Box
+ 221          &Combo Box
+ 222          Control Properties
+ 225          Lock Cell
+ 226          &AutoSum
+ 243          &Arrow
+ 247          Page Set&up...
+ 254          &Style...
+ 259          Routing Slip
+ 262          Microsoft &Mail
+ 264          Microsoft &Access
+ 265          Microsoft &Schedule+
+ 266          Microsoft Visual &FoxPro
+ 267          Microsoft &PowerPoint
+ 269          Microsoft P&roject
+ 270          Custom
+ 271          Custom
+ 272          Custom
+ 273          Custom
+ 274          Custom
+ 275          Custom
+ 276          Custom
+ 278          Custom
+ 279          Custom
+ 280          &Camera
+ 281          Custom
+ 282          &Button
+ 283          Custom
+ 286          Custom
+ 290          &Strikethrough
+ 292          Delete
+ 293          Delete &Rows
+ 294          Delete &Columns
+ 295          C&ells...
+ 296          &Rows
+ 297          &Columns
+ 298          &Arrange...
+ 302          &Split
+ 303          &New Window
+ 305          &Accept or Reject Changes...
+ 313          R&eplace...
+ 318          &WordArt...
+ 338          Regr&oup
+ 339          &3-D
+ 363          Se&nd...
+ 364          &Set Print Area
+ 365          &Insert MS Excel 4.0 Macro
+ 368          &Clear Formatting
+ 369          &Paste Formatting
+ 370          &Paste Values
+ 371          &Right
+ 372          &Down
+ 373          &Equal Sign
+ 374          &Plus Sign
+ 375          &Minus Sign
+ 376          &Multiplication Sign
+ 377          &Division Sign
+ 378          &Exponentiation Sign
+ 379          &Left Parenthesis
+ 380          &Right Parenthesis
+ 381          &Colon
+ 382          &Comma
+ 383          &Percent Sign
+ 384          &Dollar Sign
+ 385          Paste Function
+ 387          &Constrain Numeric
+ 389          &XL Left Border
+ 390          &XL Right Border
+ 391          &XL Top Border
+ 393          &Light Shading
+ 394          &Shadow
+ 395          &Currency Style
+ 396          &Percent Style
+ 397          &Comma Style
+ 398          &Increase Decimal
+ 399          &Decrease Decimal
+ 401          &Font Color
+ 402          &Merge and Center
+ 403          &Increase Font Size
+ 404          &Decrease Font Size
+ 405          &Vertical Text
+ 406          &Rotate Text Up
+ 407          &Rotate Text Down
+ 408          Distribute &Horizontally
+ 409          &Scribble
+ 417          Custom
+ 418          &Area Chart
+ 419          &Bar Chart
+ 420          &Column Chart
+ 421          &Stacked Column Chart
+ 422          &Line Chart
+ 423          &Pie Chart
+ 424          &3-D Area Chart
+ 425          &3-D Bar Chart
+ 426          &3-D Clustered Column Chart
+ 427          &3-D Column Chart
+ 428          &3-D Line Chart
+ 429          &3-D Pie Chart
+ 430          &(XY) Scatter Chart
+ 431          &3-D Surface Chart
+ 432          &Radar Chart
+ 434          &Volume/High-Low-Close Chart
+ 435          &Default Chart
+ 436          &Chart Wizard
+ 437          &Value Axis Gridlines
+ 438          &Category Axis Gridlines
+ 439          &Legend
+ 440          &Show Outline Symbols
+ 441          &Select Visible Cells
+ 442          &Select Current Region
+ 443          &Freeze Panes
+ 444          &Zoom In
+ 445          &Zoom Out
+ 446          &Option Button
+ 447          &Scroll Bar
+ 448          &List Box
+ 449          &Doughnut Chart
+ 450          &Remove Dependent Arrows
+ 451          Trace &Dependents
+ 452          &Remove Precedent Arrows
+ 453          Remove &All Arrows
+ 454          &Attach Note
+ 455          &Update File
+ 456          &Toggle Read Only
+ 457          &Wizard...
+ 458          Auto&Filter
+ 459          &Refresh Data
+ 460          Fi&eld Settings...
+ 461          Show &Pages...
+ 462          &Show Detail
+ 463          Trace &Error
+ 464          &Hide Detail
+ 465          Distribute &Vertically
+ 467          &Group Box
+ 468          &Spinner
+ 469          Ta&b Order...
+ 470          &Run Dialog
+ 471          &Combination List-Edit
+ 475          &Combination Drop-Down Edit
+ 476          &Label
+ 477          Custom
+ 478          Custom
+ 479          Custom
+ 480          Custom
+ 481          Custom
+ 482          Custom
+ 483          Custom
+ 484          Custom
+ 485          Toggle Grid
+ 486          &Trace Precedents
+ 488          &Code
+ 489          &Dialog
+ 509          Page &Break
+ 522          &Options...
+ 537          Para&meters...
+ 541          H&eight...
+ 542          &Width...
+ 546          &Object...
+ 548          Control T&oolbox
+ 549          To &Grid
+ 569          C&ancel
+ 642          &More Controls...
+ 664          Align &Left
+ 665          Align &Right
+ 666          Align &Top
+ 667          Align &Bottom
+ 668          Align &Center
+ 669          Align &Middle
+ 682          &Clip Art...
+ 688          Free Ro&tate
+ 692          &Line Style
+ 693          &Dash Style
+ 694          &Arrow Style
+ 702          &Organization Chart
+ 723          &Normal
+ 724          &Page Break Preview
+ 732          &Crop
+ 748          Save &As...
+ 750          Propert&ies
+ 752          E&xit
+ 755          Paste &Special...
+ 757          &Go To...
+ 759          Lin&ks...
+ 762          &Header and Footer...
+ 786          &AutoFormat...
+ 793          &AutoCorrect...
+ 797          &Customize...
+ 798          &Merge Cells
+ 800          Unmerge Cells
+ 806          T&ext to Columns...
+ 825          Assign &Macro...
+ 830          &Window Name Goes Here
+ 831          &Recent File Name Goes Here
+ 837          &Create Microsoft Outlook Task
+ 838          Mi&nimize
+ 839          &Restore
+ 840          &Close
+ 841          &Move
+ 842          &Size
+ 843          Ma&ximize
+ 846          Save &Workspace...
+ 847          De&lete Sheet
+ 848          &Move or Copy Sheet...
+ 849          &Formula Bar
+ 850          &Status Bar
+ 852          &Worksheet
+ 855          C&ells...
+ 856          &Goal Seek...
+ 857          Sc&enarios...
+ 859          Assig&n Macro...
+ 860          F&orm...
+ 861          Su&btotals...
+ 862          &Table...
+ 863          Co&nsolidate...
+ 865          &Hide
+ 866          &Unhide...
+ 867          &Up
+ 868          &Left
+ 869          &Across Worksheets...
+ 870          &Series...
+ 871          &Justify
+ 872          &Formats
+ 873          &Contents
+ 874          Co&mments
+ 878          &Define...
+ 879          &Paste...
+ 880          &Create...
+ 881          &Apply...
+ 882          &AutoFit
+ 883          &Hide
+ 884          &Unhide
+ 885          &AutoFit Selection
+ 886          &Hide
+ 887          &Unhide
+ 888          &Standard Width...
+ 889          &Rename
+ 890          &Hide
+ 891          &Unhide...
+ 892          &Show Auditing Toolbar
+ 893          &Protect Sheet...
+ 894          Protect &Workbook...
+ 896          Relative Reference
+ 899          Auto&Filter
+ 900          &Show All
+ 901          &Advanced Filter...
+ 904          &Auto Outline
+ 905          &Clear Outline
+ 906          S&ettings...
+ 907          &Series
+ 908          Sized with &Window
+ 914          Add T&rendline...
+ 917          &Selected Object
+ 918          Chart &Type...
+ 919          3-D &View...
+ 925          &Zoom...
+ 927          &About Microsoft Excel
+ 928          &Sort...
+ 932          &Label...
+ 936          &Lotus 1-2-3 Help...
+ 937          &Answer Wizard...
+ 938          &Exchange Folder...
+ 943          Add-&Ins...
+ 945          &Insert...
+ 946          &Select All Sheets
+ 950          Custom &Views...
+ 952          &Background...
+ 954          &Source Data...
+ 955          &Location...
+ 956          Chart &Options...
+ 957          &Sheet List
+ 960          &Calculate Now
+ 961          &Object
+ 962          C&ells...
+ 984          Microsoft Excel &Help
+ 987          &Data Table
+ 988          Series in &Columns
+ 989          Series in &Rows
+ 991          &Enable Selection
+ 992          &List Formulas
+ 993          &Data
+ 994          Label &and Data
+ 995          &Label
+ 1004         Show the &Office Assistant
+ 1006         &Fill Effects...
+ 1013         &Angle Text Upward
+ 1014         &Angle Text Downward
+ 1015         &Open...
+ 1016         &Start Page
+ 1017         &Back
+ 1018         &Forward
+ 1019         &Stop Current Jump
+ 1020         &Refresh Current Page
+ 1021         Open &Favorites...
+ 1022         &Add to Favorites...
+ 1023         &Show Only Web Toolbar
+ 1031         &WordArt...
+ 1033         Rerou&te Connectors
+ 1035         &Up
+ 1036         &Down
+ 1037         &Left
+ 1038         &Right
+ 1041         &Curve
+ 1042         St&raight Connector
+ 1043         &Elbow Connector
+ 1044         C&urved Connector
+ 1047         &Callouts
+ 1048         &Flowchart
+ 1049         Block &Arrows
+ 1050         &Stars and Banners
+ 1051         &More Fill Colors...
+ 1052         &More Line Colors...
+ 1053         &Patterned Lines...
+ 1054         &More Lines...
+ 1055         &More Arrows...
+ 1056         &Shadow Settings...
+ 1057         &3-D Settings...
+ 1058         &WordArt Shape
+ 1059         &WordArt Alignment
+ 1060         &WordArt Character Spacing
+ 1061         &WordArt Vertical Text
+ 1063         &WordArt Same Letter Heights
+ 1064         &More Contrast
+ 1065         &Less Contrast
+ 1066         &More Brightness
+ 1067         &Less Brightness
+ 1068         &Nudge Shadow Up
+ 1069         &Nudge Shadow Down
+ 1070         &Nudge Shadow Left
+ 1071         &Nudge Shadow Right
+ 1072         &More Shadow Colors...
+ 1073         &More 3-D Colors...
+ 1108         &Left Align
+ 1109         &Center
+ 1110         &Line Callout 4 (Border and Accent Bar)
+ 1111         &Rectangle
+ 1112         &Parallelogram
+ 1113         &Trapezoid
+ 1114         &Diamond
+ 1115         &Rounded Rectangle
+ 1116         &Octagon
+ 1117         &Isosceles Triangle
+ 1118         &Right Triangle
+ 1119         &Oval
+ 1120         &Hexagon
+ 1121         &Cross
+ 1122         &Cube
+ 1123         &Plaque
+ 1124         &Regular Pentagon
+ 1125         &Wave
+ 1126         &Can
+ 1127         &Vertical Scroll
+ 1128         &Horizontal Scroll
+ 1129         &Folded Corner
+ 1130         &Bevel
+ 1131         &Smiley Face
+ 1132         &Donut
+ 1133         &"No" Symbol
+ 1134         &Block Arc
+ 1135         &Left Bracket
+ 1136         &Right Bracket
+ 1137         &Left Brace
+ 1138         &Right Brace
+ 1139         &Arc
+ 1140         &Lightning Bolt
+ 1141         &Heart
+ 1142         &Right Arrow
+ 1143         &Left Arrow
+ 1144         &Up Arrow
+ 1145         &Down Arrow
+ 1146         &Left-Right Arrow
+ 1147         &Up-Down Arrow
+ 1148         &Quad Arrow
+ 1149         &Left-Right-Up Arrow
+ 1150         &Left-Up Arrow
+ 1151         &Bent-Up Arrow
+ 1152         &Bent Arrow
+ 1153         &U-Turn Arrow
+ 1154         &Striped Right Arrow
+ 1155         &Notched Right Arrow
+ 1156         &Pentagon
+ 1157         &Chevron
+ 1158         &Circular Arrow
+ 1160         &Curved Right Arrow
+ 1161         &Curved Left Arrow
+ 1162         &Curved Up Arrow
+ 1163         &Curved Down Arrow
+ 1164         &Right Arrow Callout
+ 1165         &Left Arrow Callout
+ 1166         &Up Arrow Callout
+ 1167         &Down Arrow Callout
+ 1168         &Left-Right Arrow Callout
+ 1169         &Up-Down Arrow Callout
+ 1170         &Quad Arrow Callout
+ 1172         &Rectangular Callout
+ 1173         &Rounded Rectangular Callout
+ 1174         &Oval Callout
+ 1175         &Cloud Callout
+ 1176         &Line Callout 2
+ 1177         &Line Callout 3
+ 1178         &Line Callout 4
+ 1179         &Down Ribbon
+ 1180         &Up Ribbon
+ 1181         &Curved Down Ribbon
+ 1182         &Curved Up Ribbon
+ 1183         &5-Point Star
+ 1184         &8-Point Star
+ 1185         &16-Point Star
+ 1186         &24-Point Star
+ 1187         &32-Point Star
+ 1188         &Explosion 1
+ 1189         &Explosion 2
+ 1190         &Flowchart: Process
+ 1191         &Flowchart: Alternate Process
+ 1192         &Flowchart: Decision
+ 1193         &Flowchart: Data
+ 1194         &Flowchart: Predefined Process
+ 1195         &Flowchart: Internal Storage
+ 1196         &Flowchart: Document
+ 1197         &Flowchart: Multidocument
+ 1198         &Flowchart: Terminator
+ 1199         &Flowchart: Preparation
+ 1200         &Flowchart: Manual Input
+ 1201         &Flowchart: Manual Operation
+ 1202         &Flowchart: Connector
+ 1203         &Flowchart: Off-page Connector
+ 1204         &Flowchart: Card
+ 1205         &Flowchart: Punched Tape
+ 1206         &Flowchart: Summing Junction
+ 1207         &Flowchart: Or
+ 1208         &Flowchart: Collate
+ 1209         &Flowchart: Sort
+ 1210         &Flowchart: Extract
+ 1211         &Flowchart: Merge
+ 1213         &Flowchart: Stored Data
+ 1214         &Flowchart: Sequential Access Storage
+ 1215         &Flowchart: Magnetic Disk
+ 1216         &Flowchart: Direct Access Storage
+ 1217         &Flowchart: Display
+ 1218         &Flowchart: Delay
+ 1219         &Line Callout 1
+ 1220         &Line Callout 1 (Accent Bar)
+ 1221         &Line Callout 2 (Accent Bar)
+ 1222         &Line Callout 3 (Accent Bar)
+ 1223         &Line Callout 4 (Accent Bar)
+ 1224         &Line Callout 1 (No Border)
+ 1225         &Line Callout 2 (No Border)
+ 1226         &Line Callout 3 (No Border)
+ 1227         &Line Callout 4 (No Border)
+ 1228         &Line Callout 1 (Border and Accent Bar)
+ 1229         &Line Callout 2 (Border and Accent Bar)
+ 1230         &Line Callout 3 (Border and Accent Bar)
+ 1352         &Right Align
+ 1353         Le&tter Justify
+ 1354         &Word Justify
+ 1355         &Stretch Justify
+ 1356         Very T&ight
+ 1357         &Tight
+ 1358         &Normal
+ 1359         &Loose
+ 1360         &Very Loose
+ 1361         &Kern Character Pairs
+ 1362         &Reset Picture
+ 1365         &Automatic
+ 1366         &Grayscale
+ 1367         &Black && White
+ 1368         &Watermark
+ 1374         &3-D On/Off
+ 1375         &Tilt Down
+ 1376         &Tilt Up
+ 1377         &Tilt Left
+ 1378         &Tilt Right
+ 1379         &Depth
+ 1380         &Direction
+ 1382         &Lighting
+ 1383         &Surface
+ 1384         &0 pt.
+ 1385         &36 pt.
+ 1386         &72 pt.
+ 1387         &144 pt.
+ 1388         &288 pt.
+ 1389         &Infinity
+ 1390         &Perspective
+ 1391         P&arallel
+ 1392         &Bright
+ 1393         &Normal
+ 1394         &Dim
+ 1395         &Matte
+ 1396         &Plastic
+ 1398         Me&tal
+ 1399         &Wire Frame
+ 1401         Edit Te&xt
+ 1402         To &Shape
+ 1403         &Image Control
+ 1405         &Basic Shapes
+ 1406         &Callouts
+ 1407         &Flowchart
+ 1408         Block &Arrows
+ 1409         &Stars and Banners
+ 1410         Show WordArt Tool&bar
+ 1412         &Exit Rotate Mode
+ 1413         Show Pictu&re Toolbar
+ 1415         &Add Point
+ 1416         De&lete Point
+ 1417         &Straight Segment
+ 1418         &Curved Segment
+ 1420         Close C&urve
+ 1421         Au&to Point
+ 1422         &Smooth Point
+ 1423         St&raight Point
+ 1424         &Corner Point
+ 1425         Exit &Edit Point
+ 1453         &No Color
+ 1455         &Color Scheme
+ 1456         &Standard Colors
+ 1459         &Automatic Color
+ 1460         &Color Scheme
+ 1461         &Standard Colors
+ 1465         &Color Scheme
+ 1466         &Standard Colors
+ 1470         &Color Scheme
+ 1471         &Standard Colors
+ 1561         &View Code
+ 1574         Open in New &Window
+ 1575         &Copy Hyperlink
+ 1576         Hyperl&ink...
+ 1577         Edit &Hyperlink...
+ 1578         &Select Hyperlink
+ 1583         &Add to Print Area
+ 1584         &Clear Print Area
+ 1585         Reset &All Page Breaks
+ 1586         &Exclude From Print Area
+ 1588         Insert Page &Break
+ 1589         Co&mment
+ 1590         &Previous Comment
+ 1591         &Next Comment
+ 1592         Delete Co&mment
+ 1593         Sh&ow Comment
+ 1594         &Comments
+ 1597         Calculated &Field...
+ 1598         Calculated &Item...
+ 1600         Entire &Table
+ 1604         Table &Options...
+ 1605         &Design Mode
+ 1606         &WordArt Gallery
+ 1611         &Edit
+ 1613         Se&ttings...
+ 1614         &Show or Hide
+ 1616         &Chart Type
+ 1617         &Pattern
+ 1618         &Border
+ 1622         &Chart Objects:
+ 1623         &Navigate Circular Reference:
+ 1635         &Bubble Chart
+ 1636         &3-D Cylinder Chart
+ 1637         &3-D Pyramid Chart
+ 1638         &3-D Cone Chart
+ 1639         &Double Arrow
+ 1691         &Fill Color
+ 1692         &Line Color
+ 1693         &Shadow Color
+ 1694         &3-D Color
+ 1695         &Visual Basic Editor
+ 1699         &Bottom Double Border
+ 1704         &All Borders
+ 1728         &Font:
+ 1731         &Font Size:
+ 1732         &Style:
+ 1733         &Zoom:
+ 1737         &Scenario:
+ 1740         &Address:
+ 1741         M&ap...
+ 1742         &Merge Across
+ 1764         From &Scanner or Camera...
+ 1840         &Inside Horizontal Border
+ 1841         &Inside Vertical Border
+ 1842         &Diagonal Down Border
+ 1843         &Diagonal Up Border
+ 1844         &Open-High-Low-Close Chart
+ 1846         &Left-to-Right
+ 1847         &Right-to-Left
+ 1848         &Check Box
+ 1849         &Find...
+ 1850         &Text Box
+ 1851         &Command Button
+ 1852         &Option Button
+ 1853         &List Box
+ 1854         &Combo Box
+ 1855         &Toggle Button
+ 1856         &Spin Button
+ 1857         &Scroll Bar
+ 1858         &Label
+ 1859         &Semitransparent Shadow
+ 1922         Search the &Web
+ 1924         Sheet Left-to-Right
+ 1925         Sheet Right-to-Left
+ 1926         &Automatic Color
+ 1927         &Color Scheme
+ 1928         &Color
+ 1929         &Color Scheme
+ 1930         &Color
+ 1948         Run Save&d Query...
+ 1950         &Edit Query...
+ 1951         D&ata Range Properties
+ 1952         Refresh &All
+ 1953         &Cancel Refresh
+ 1954         &Refresh Status
+ 1957         C&hart...
+ 1963         &Add Data...
+ 1964         &All
+ 1965         &<verb>
+ 1966         Pic&k From List...
+ 1967         Con&vert...
+ 1968         &Ungroup Sheets
+ 1988         &Pattern
+ 2012         &None
+ 2013         &Average
+ 2014         &Count
+ 2015         C&ount Nums
+ 2016         &Max
+ 2017         M&in
+ 2018         &Sum
+ 2019         &Copy Cells
+ 2020         Fill &Series
+ 2021         Fill &Formats
+ 2022         Fill &Values
+ 2023         Fill &Days
+ 2024         Fill &Weekdays
+ 2025         Fill &Months
+ 2026         Fill &Years
+ 2027         &Linear Trend
+ 2028         &Growth Trend
+ 2029         S&eries...
+ 2031         Insert Co&mment
+ 2034         Va&lidation...
+ 2035         Circle Invalid Data
+ 2038         &Reset Print Area
+ 2040         S&hare Workbook...
+ 2042         &Highlight Changes...
+ 2044         Merge &Workbooks...
+ 2045         &Copy Here
+ 2046         &Move Here
+ 2047         Copy Here as &Formats Only
+ 2048         Copy Here as &Values Only
+ 2049         &Shift Down and Copy
+ 2050         Shif&t Right and Copy
+ 2051         Shift &Down and Move
+ 2052         Shift &Right and Move
+ 2054         &New Database Query...
+ 2055         &Clear Validation Circles
+ 2089         &Image
+ 2091         &Straight Connector
+ 2092         &Elbow Connector
+ 2093         C&urved Connector
+ 2094         Edit Te&xt...
+ 2158         &Link Here
+ 2159         Create &Hyperlink Here
+ 2175         &Shadow On/Off
+ 2179         Set AutoShape &Defaults
+ 2186         Stop &Recording
+ 2188         M&ail Recipient (as Attachment)...
+ 2520         &New
+ 2521         Print (Linotronic 330 v52.3)
+ 2571         Ch&art Window
+ 2619         &From File...
+ 2630         &AutoShapes
+ 2631         &Lines
+ 2632         &Basic Shapes
+ 2633         Co&nnectors
+ 2634         &Sun
+ 2635         &Moon
+ 2636         &Double Bracket
+ 2637         &Double Brace
+ 2638         &4-Point Star
+ 2639         &Double Wave
+ 2640         &Straight Arrow Connector
+ 2641         &Straight Double-Arrow Connector
+ 2642         &Elbow Arrow Connector
+ 2643         &Elbow Double-Arrow Connector
+ 2644         &Curved Arrow Connector
+ 2645         &Curved Double-Arrow Connector
+ 2668         &Fill Effects...
+ 2692         De&lete Segment
+ 2693         Open C&urve
+ 2787         Paste as &Hyperlink
+ 2792         Distributed Align
+ 2827         &Set Transparent Color
+ 2914         &Solve Order...
+ 2915         &PivotTable and PivotChart Report...
+ 2934         &Web Toolbar
+ 2949         &Custom Menu Item
+ 2950         &Custom Button
+ 3058         Con&ditional Formatting...
+ 3059         Protect and &Share Workbook...
+ 3125         Clear Co&ntents
+ 3141         &Automatic Color
+ 3159         &Group...
+ 3160         &Ungroup...
+ 3161         &Increase Indent
+ 3162         &Decrease Indent
+ 3492         &Hangul Hanja Conversion...
+ 3514         Pick From Phonetic List ...
+ 3626         &Remove Hyperlink
+ 3627         Security...
+ 3628         &Insert Script
+ 3630         Remove All S&cripts
+ 3631         Microsoft Script Editor
+ 3636          
+ 3637          
+ 3638          
+ 3639          
+ 3640          
+ 3641          
+ 3642          
+ 3643          
+ 3644          
+ 3645          
+ 3646          
+ 3647          
+ 3648         More fields
+ 3650         More fields
+ 3655         We&b Page Preview
+ 3675          
+ 3676          
+ 3677          
+ 3689         Show &All Scripts
+ 3708         &Send Now
+ 3709         &Select Names
+ 3710         &Check Names
+ 3720         Recon&version
+ 3727         &Meet Now
+ 3728         &Online Meeting Participant
+ 3738         &Mail Recipient
+ 3754         &COM Add-Ins...
+ 3774         Detect and &Repair...
+ 3775         Office on the &Web
+ 3789         Pivot&Chart
+ 3790         &Display Fields
+ 3817         Refre&sh
+ 3819         Do &Not Refresh
+ 3823         Save as Web Pa&ge...
+ 3829         New &Web Query...
+ 3831         &Web Options...
+ 3844         Import &Text File...
+ 3889         &More AutoShapes...
+ 3902         HTML Sourc&e
+ 3903         Publis&h as Web Page...
+ 3956         &Hide PivotChart Field Buttons
+ 3988         C&lient-Server Settings...
+ 3990         &Select Multiple Objects
+ 4002         Sho&w Detail
+ 4021         &Context
+ 4027         &Text Direction
+ 4148         Move to Be&ginning
+ 4149         Move &Up
+ 4150         Move &Down
+ 4151         Move to &End
+ 4177         &Web Discussions
+ 4179         &Schedule Meeting...
+ 4388         &Data Area
+ 4389         &Data Area
+ 4390         &Data Area
+ 4391         &Non-Data Area
+ 4392         &Non-Data Area
+ 4393         &Non-Data Area
+ 5416         Remo&ve Field
+ 5472         Calculate Full
+ 5473         Forma&t Report...
+ 30002        &File
+ 30003        &Edit
+ 30004        &View
+ 30005        &Insert
+ 30006        F&ormat
+ 30007        &Tools
+ 30008        T&able
+ 30009        &Window
+ 30010        &Help
+ 30011        &Data
+ 30012        &Run
+ 30013        D&raw
+ 30014        &Records
+ 30015        Securi&ty
+ 30016        &Query
+ 30017        &Macro
+ 30018        &Relationships
+ 30019        &Object
+ 30020        F&ill
+ 30021        Cle&ar
+ 30022        &Chart
+ 30023        &Name
+ 30024        &Row
+ 30025        &Column
+ 30026        S&heet
+ 30027        &Placement
+ 30028        A&uditing
+ 30029        &Protection
+ 30030        &Record Macro
+ 30031        &Filter
+ 30032        &Group and Outline
+ 30033        &Master
+ 30034        &Alignment
+ 30035        &Align
+ 30036        Rotate or Fli&p
+ 30037        Ne&w
+ 30038        Add-&Ins
+ 30039        &Go To
+ 30040        &Quick Sort
+ 30041        S&QL Specific
+ 30042        &Size
+ 30043        &Horizontal Spacing
+ 30044        &Vertical Spacing
+ 30045        &Toolbars
+ 30046        Query Layout
+ 30047        &Modify Selection
+ 30048        Document
+ 30049        Toolbar Name Goes Here
+ 30050        Change &Button Image
+ 30051        Other
+ 30052        &File
+ 30053        &Help
+ 30054        File
+ 30055        Edit
+ 30056        View
+ 30057        Insert
+ 30058        Format
+ 30059        Tools
+ 30060        Table
+ 30061        Window and Help
+ 30062        Macros
+ 30063        Fonts
+ 30064        AutoText
+ 30065        Styles
+ 30066        New Menu
+ 30067        Shortcut Menu
+ 30068        Built-in Menus
+ 30069        Sectio&n
+ 30070        &Binder Help
+ 30071        Help
+ 30072        .
+ 30073        Drawing
+ 30074        Mail Merge
+ 30075        Borders
+ 30076        Insert Merge Field
+ 30077        Insert Word Field
+ 30078        O&rder
+ 30079        &Distribute
+ 30080        &Change AutoShape
+ 30081        &Journal
+ 30082        &Nudge
+ 30083        A&ction
+ 30084        &Snap
+ 30085        Gridline Color
+ 30086        Font Color
+ 30087        Pattern
+ 30088        Border Color
+ 30089        Built-in Menus
+ 30090        Context Menus
+ 30091        &Make Same Size
+ 30092        &Center in Form
+ 30093        A&rrange Buttons
+ 30094        &Hyperlink
+ 30095        Sen&d To
+ 30096        A&utoCorrect
+ 30097        AutoManager
+ 30098        Synonyms
+ 30099        Fo&nt
+ 30100        Wor&k
+ 30101        Get External &Data
+ 30102        C&hange To
+ 30103        &Sort
+ 30104        Anal&yze
+ 30105        Re&plication
+ 30106        Office &Links
+ 30107        Database Ob&jects
+ 30108        &Zoom
+ 30109        P&ages
+ 30110        &Arrange Icons
+ 30111        Paragraph &Direction
+ 30112        &Object
+ 30113        View &Attachments
+ 30114        &Folder
+ 30115        &Message
+ 30116        &New
+ 30117        Ne&xt
+ 30118        Pre&vious
+ 30119        &Note
+ 30120        &Number of Days
+ 30121        E&xpand/Collapse Groups
+ 30122        Appointme&nt
+ 30123        C&olor
+ 30124        Current &View
+ 30125        Open Special Fol&der
+ 30126        Save Attac&hments
+ 30127        T&ask
+ 30128        TaskPad Sett&ings
+ 30129        Tas&kPad View
+ 30130        Cont&act
+ 30131        Co&mpose
+ 30132        Prin&t Setup
+ 30133        &Mail
+ 30134        Publis&hing
+ 30135        Commen&ts
+ 30136        Phone&tic Guide
+ 30137        Con&ditions
+ 30138        &Track Changes
+ 30139        &Validation
+ 30140        dummy
+ 30141        C&ontacts
+ 30142        &Calendar
+ 30143        Arrang&e
+ 30144        Speed &Dial
+ 30145        Fo&rm
+ 30146        &Layout
+ 30147        &Redial
+ 30148        Si&ze To
+ 30149        Tas&ks
+ 30150        Datasheet
+ 30151        Records
+ 30152        Query Design
+ 30153        Form/Report Design
+ 30154        Module Design
+ 30155        All Tables
+ 30156        All Queries
+ 30157        All Forms
+ 30158        All Reports
+ 30159        All Macros
+ 30160        All Modules
+ 30161        ActiveX Controls
+ 30162        Options
+ 30163        Te&xt Box
+ 30164        &Frame
+ 30165        &Debug
+ 30166        C&olor
+ 30167        Favorites
+ 30168        Font Size
+ 30169        F&ind All
+ 30170        &Remote Mail
+ 30171        Re&currence
+ 30172        Page Set&up
+ 30173        &Dial
+ 30174        &Align or Distribute
+ 30175        &Grouping
+ 30176        Favorites
+ 30177        A&utoShapes
+ 30178        I&nternet
+ 30179        Sourc&e Code Control
+ 30180        &Picture
+ 30181        &AutoText
+ 30182        &Language
+ 30183        &Mail
+ 30184        Spelling
+ 30185        Grammar
+ 30186        Track Changes
+ 30187        Hyperlink
+ 30188        AutoText List Field
+ 30189        Curve
+ 30190        Curve Point
+ 30191        Curve Segment
+ 30192        Picture
+ 30193        OLE Object
+ 30194        Connector
+ 30195        WordArt
+ 30196        Rotate Mode
+ 30197        Comment
+ 30198        Track Changes Status Bar
+ 30199        Shapes
+ 30200        Drop Caps
+ 30201        Endnotes
+ 30202        Fields
+ 30203        Display Fields
+ 30204        Form Fields
+ 30205        Footnotes
+ 30206        Frames
+ 30207        Headings
+ 30208        Linked Headings
+ 30209        Lists
+ 30210        Tables
+ 30211        Table Cell
+ 30212        Table Headings
+ 30213        Table Lists
+ 30214        Table Pictures
+ 30215        Table Text
+ 30216        Whole Tables
+ 30217        Linked Whole Tables
+ 30218        Text
+ 30219        Linked Text
+ 30220        R T E Font
+ 30221        R T E Font Para
+ 30222        Microsoft on the &Web
+ 30223        &Movies and Sounds
+ 30224        Screen
+ 30225        Sli&de Show
+ 30226        Go To
+ 30227        Pointer Options
+ 30228        Pen Color
+ 30229        &File
+ 30230        &Edit
+ 30231        &Browse
+ 30232        &Window
+ 30233        &Database Utilities
+ 30234        &Bookmarks
+ 30235        All Commands
+ 30236        Format
+ 30237        ActiveX Controls
+ 30238        Table Design
+ 30239        Toolbox
+ 30240        Macro Design
+ 30241        Data
+ 30242        Window and Help
+ 30243        Charting
+ 30244        Forms
+ 30245        Custom
+ 30246        AutoShapes
+ 30247        Control Toolbox
+ 30248        PivotTable
+ 30249        Web
+ 30250        Source Code Control
+ 30251        &Group and Outline
+ 30252        &Select
+ 30253        &PivotTable
+ 30254        For&mulas
+ 30255        Prin&t Area
+ 30256        NYI
+ 30257        Title Bar
+ 30258        Design View Title Bar
+ 30259        Design View Upper Pane
+ 30260        Design View Lower Pane
+ 30261        Properties
+ 30262        Title Bar
+ 30263        Upper Pane
+ 30264        Lower Pane
+ 30265        Properties
+ 30266        General
+ 30267        Table Field List
+ 30268        Query Field List
+ 30269        Join
+ 30270        Datasheet View Title Bar
+ 30271        Datasheet View Column
+ 30272        Datasheet View Row
+ 30273        Datasheet View Cell
+ 30274        Design View General
+ 30275        Design View Field List
+ 30276        Join
+ 30277        Design View Grid
+ 30278        SQL Title Bar
+ 30279        SQL Text
+ 30280        Properties
+ 30281        Datasheet View Title Bar
+ 30282        Datasheet View Column
+ 30283        Datasheet View Row
+ 30284        Datasheet View Cell
+ 30285        Title Bar
+ 30286        Field
+ 30287        Filter By Form
+ 30288        Design View Title Bar
+ 30289        Design View Form
+ 30290        Design View Section
+ 30291        Design View Control
+ 30292        Design View Label
+ 30293        Form Design LabelX
+ 30294        Design View ActiveX Control
+ 30295        Design View Title Bar
+ 30296        Design View Report
+ 30297        Design View Section
+ 30298        Design View Control
+ 30299        Properties
+ 30300        Form View Title Bar
+ 30301        Form View Subform
+ 30302        Form View Control
+ 30303        Form View Subform Control
+ 30304        Form View Record
+ 30305        Datasheet View Title Bar
+ 30306        Datasheet View Column
+ 30307        Datasheet View Subform Column
+ 30308        Datasheet View Row
+ 30309        Datasheet View Cell
+ 30310        Print Preview
+ 30311        Title Bar
+ 30312        Upper Pane
+ 30313        Condition
+ 30314        Argument
+ 30315        Module Uncompiled
+ 30316        Module Compiled
+ 30317        Immediate Pane
+ 30318        Locals Pane
+ 30319        Object Browser
+ 30320        Watch Pane
+ 30321        Table / Query
+ 30322        Form
+ 30323        Report
+ 30324        Macro
+ 30325        Module
+ 30326        Background
+ 30327        Macro-defined Menu
+ 30328        &Go
+ 30329        Left Pane
+ 30330        Slide Show
+ 30331        Slide Miniature
+ 30332        Slider Sorter
+ 30333        Outliner
+ 30334        Non-default drag-and-drop
+ 30335        Document
+ 30336        Nondefault Drag and Drop
+ 30337        ActiveX Control
+ 30338        OLE Shared
+ 30339        Global
+ 30340        Arrange Icons
+ 30341        Filter
+ 30342        Get External Data
+ 30343        Workbook tabs
+ 30344        Cell
+ 30345        Row
+ 30346        Column
+ 30347        Cell
+ 30348        Row
+ 30349        Column
+ 30350        Ply
+ 30351        XLM Cell
+ 30352        Desktop
+ 30353        AutoFill
+ 30354        Button
+ 30355        Textbox
+ 30356        Dialog
+ 30357        Series
+ 30358        Plot Area
+ 30359        Floor and Walls
+ 30360        Trendline
+ 30361        Chart
+ 30362        Formula Bar
+ 30363        PivotTable
+ 30364        Query
+ 30365        AutoCalculate
+ 30366        Object / Plot
+ 30367        Title Bar (Charting)
+ 30368        Title Bar
+ 30369        PivotTable Select
+ 30370        PivotTable Grouping
+ 30371        PivotTable Formulas
+ 30372        Excel Control
+ 30373        Custom
+ 30374        Tab Control
+ 30375        Whole Document (Chart)
+ 30376        Black and White
+ 30377        Sav&e Form To
+ 30378        &View
+ 30379        &Macro
+ 30380        Database
+ 30381        Filter
+ 30382        Form
+ 30383        Index
+ 30384        Macro
+ 30385        Module
+ 30386        Query
+ 30387        Relationship
+ 30388        Report
+ 30389        Table
+ 30390        Custom
+ 30391        Notes View Slide
+ 30392        By &Title
+ 30393        &Custom show
+ 30394        Hyperlink
+ 30395        Slide Show Browse Mode
+ 30396        Save to &HTML/Web Formats
+ 30397        &Outlook Help
+ 30398        &Toggle
+ 30399        Draw
+ 30400        Text
+ 30401        SlideShow
+ 30402        Microsoft on the &Web
+ 30403        Bac&kground
+ 30404        Chart
+ 30405        Background Proofing Status Bar
+ 30406        Field Display List Numbers
+ 30407        Help
+ 30408        &Preset Animation
+ 30409        Inline Picture
+ 30410        Floating Picture
+ 30411        &Alignment
+ 30412        Table Thes&aurus
+ 30413        &Thesaurus
+ 30414        S&ynonyms
+ 30415        &File
+ 30416        &Edit
+ 30417        &View
+ 30418        &Insert
+ 30419        F&ormat
+ 30420        &Tools
+ 30421        Work
+ 30422        Document map
+ 30423        &AutoText
+ 30424        Fon&t Alignment
+ 30425        <OCX Name> Control
+ 30426        Hyperlink Cascade
+ 30427        Mac Future Use
+ 30428        Wi&zard
+ 30429        Glossar&y
+ 30430        Mac Future Use
+ 30431        Mac Future Use
+ 30432        Mac Future Use
+ 30433        Mac Future Use
+ 30434        Mac Future Use
+ 30435        Mac Future Use
+ 30436        Mac Future Use
+ 30437        &Office Assistant
+ 30438        Horizontal Line Popup
+ 30439        T&able
+ 30440        S&how Panes
+ 30441        &Common Tasks
+ 30442        Assign &Hyperlink
+ 30443        &Language
+ 30444        &Insert
+ 30445        &Delete
+ 30446        Sele&ct
+ 30447        Con&vert
+ 30448        &Online Broadcast
+ 30449        Show or Hide &Toolbars
+ 30450        &Add or Remove Buttons
+ 30451        AutoSignature
+ 30452        F&rames
+ 30453        &Subdatasheet
+ 30454        &Diagram
+ 30455        Vi&ew Direction
+ 30456        Grammar (2)
+ 30457        Tab Control on Report Design
+ 30458        Combined Preview
+ 30459        &AutoFit
+ 30460        &AutoFit
+ 30461        Cell Ali&gnment
+ 30462        &Insert Table
+ 30463        Asian &Layout
+ 30464        Conver&t Database
+ 30465        Back&ground
+ 30466        &Dummy
+ 30467        F&ragments
+ 30468        O&nline Collaboration
+ 30469        &PivotChart
+ 30470        All Views
+ 30471        All Database Diagrams
+ 30472        All Stored Procedures
+ 30473        All Web Pages
+ 30474        Notes Pane
+ 30475        S&ynonyms
+ 30476        &Add to Group
+ 30477        Too&ls
+ 30478        &View
+ 30479        Arrange &Icons
+ 30480        &ActiveX Control
+ 30481        &Toolbox
+ 30482        &View Design
+ 30483        &Diagram
+ 30484        Table &Direction
+ 30485        Ord&er
+ 30486        Frameset Border Popup
+ 30487        Chinese Translation
+ 31101        Discussio&ns
+ 31102        View Design
+ 31103        Other
+ 31104        View
+ 31105        Stored Procedure
+ 31106        Diagram
+ 31107        Top Pane
+ 31108        Top Pane Table Title Bar
+ 31109        Top Pane Multi-select
+ 31110        Top Pane All Columns
+ 31111        Top Pane Field Item
+ 31112        Grid Pane
+ 31113        Join Line
+ 31114        SQL Pane
+ 31115        Diagram Designer Background
+ 31116        Diagram Designer Table
+ 31117        Diagram Designer Join Line
+ 31118        Stored Procedure Design/Trigger Editor
+ 31119        Page Design Section/Control
+ 31120        Data Page
+ 31121        Ite&ms
+ 31122        HTML Form Field
+ 31123        Internet Ca&ll
+ 31124        Current Vie&w
+ 31125        S&end/Receive
+ 31126        &Junk E-mail
+ 31127        Sync&hronize
+ 31128        S&hare
+ 31129        &Synchronize
+ 31130        Microsoft Fa&x Tools
+ 31131        Microsoft &Mail Tools
+ 31132        &Forms
+ 31133        Up&date Free/Busy
+ 31134        Preview Pa&ne
+ 31135        All Commands
+ 31136        Web
+ 31137        Built-in Menus
+ 31138        &Color
+ 31139        &Fonts
+ 31140        &Encoding
+ 31141        &Encoding
+ 31142        Do&wnload
+ 31143        &Style
+ 31144        S&end Using
+ 31145        &Signature
+ 31146        New &Mail Message Using
+ 31147        &More
+ 31148        &More
+ 31149        &Actions
+ 31150        Dial-Up &Connection
+ 31151        L&ink
+ 31152        &Link
+ 31153        Mi&crosoft Office

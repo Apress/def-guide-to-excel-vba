@@ -1,0 +1,7 @@
+XLODBC
+1
+DBQ=I:\Code\XL-2000\Nwind.mdb;DefaultDir=I:\Code\XL-2000;Driver={Microsoft Access Driver (*.mdb)};DriverId=25;FIL=MS Access;MaxBufferSize=2048;MaxScanRows=8;PageTimeout=5;SafeTransactions=0;Threads=3;UID=admin;UserCommitSync=Yes;
+SELECT Orders.OrderID, Orders.OrderDate, Customers.CompanyName, Min(Employees.LastName) AS 'Min von LastName'  FROM `I:\Code\XL-2000\Nwind`.Customers Customers, `I:\Code\XL-2000\Nwind`.Employees Employees, `I:\Code\XL-2000\Nwind`.Orders Orders  WHERE Customers.CustomerID = Orders.CustomerID AND Employees.EmployeeID = Orders.EmployeeID AND ((Employees.EmployeeID=7))  GROUP BY Orders.OrderID, Orders.OrderDate, Customers.CompanyName  ORDER BY Orders.OrderDate
+
+
+OrderID	OrderDate	CompanyName	Min von LastName

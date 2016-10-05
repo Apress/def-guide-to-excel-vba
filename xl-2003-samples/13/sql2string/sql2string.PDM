@@ -1,0 +1,94 @@
+[Root]
+Most Recent Package=Standardm‰ﬂiges Setup-Paket 1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=h:\TEMP\setup
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Missing Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Out-of-Date Dependency Information]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Added]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Removed]
+j:\bin-srv\vs98\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files In Project]
+H:\WINNT4\system32\msvbvm60.dll=Yes
+H:\WINNT4\system32\OLEAUT32.DLL=Yes
+H:\WINNT4\system32\OLEPRO32.DLL=Yes
+H:\WINNT4\system32\ASYCFILT.DLL=Yes
+H:\WINNT4\system32\STDOLE2.TLB=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+H:\WINNT4\system32\VB6DE.DLL=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+H:\WINNT4\system32\VB6STKIT.DLL=Yes
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+\\Mars\mars_winnt\code\Xl-2000-engl\sql2string\sql2string.exe=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Install Locations]
+I:\Code\XL-2000\sql2string\sql2string.exe=$(AppPath)
+H:\WINNT4\system32\msvbvm60.dll=$(WinSysPathSysFile)
+H:\WINNT4\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+H:\WINNT4\system32\VB6DE.DLL=$(WinSysPath)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+H:\WINNT4\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+J:\bin-srv\vs98\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+\\Mars\mars_winnt\code\Xl-2000-engl\sql2string\sql2string.exe=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Shared Files]
+Applicable=Yes
+I:\Code\XL-2000\sql2string\sql2string.exe=No
+\\Mars\mars_winnt\code\Xl-2000-engl\sql2string\sql2string.exe=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Distribution]
+Type=single
+Size=
+Title=Projekt1
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|IconGroups]
+Group0=Projekt1
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Projekt1]
+Icon1=sql2string.exe
+Title1=sql2string
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Package]
+PackageFolder=h:\TEMP\setup
+ProjectFolder=\\Mars\mars_winnt\code\Xl-2000-engl\sql2string
+ServerSideCab=
+File1=h:\TEMP\setup\setup.exe
+File2=h:\TEMP\setup\Setup.Lst
+File3=h:\TEMP\setup\sql2string.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

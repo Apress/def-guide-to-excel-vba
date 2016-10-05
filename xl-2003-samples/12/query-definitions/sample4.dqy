@@ -1,0 +1,7 @@
+XLODBC
+1
+DBQ=I:\Code\XL-2000\NWIND.MDB;DefaultDir=I:\Code\XL-2000;Driver={Microsoft Access Driver (*.mdb)};DriverId=25;FIL=MS Access;MaxBufferSize=2048;MaxScanRows=8;PageTimeout=5;SafeTransactions=0;Threads=3;UserCommitSync=Yes;
+SELECT Orders.OrderID, Orders.OrderDate, Employees.LastName AS 'EmployeeName', Shippers.CompanyName AS 'ShipperName', Customers.CompanyName AS 'CustomerName', Customers.Country AS 'CustomerCountry', Products.ProductName, Categories.CategoryName AS 'Category', Suppliers.CompanyName AS 'SuppliersName', `Order Details`.Quantity, `Order Details`.UnitPrice AS 'Price'  FROM `I:\Code\XL-2000\Nwind`.Categories Categories, `I:\Code\XL-2000\Nwind`.Customers Customers, `I:\Code\XL-2000\Nwind`.Employees Employees, `I:\Code\XL-2000\Nwind`.`Order Details` `Order Details`, `I:\Code\XL-2000\Nwind`.Orders Orders, `I:\Code\XL-2000\Nwind`.Products Products, `I:\Code\XL-2000\Nwind`.Shippers Shippers, `I:\Code\XL-2000\Nwind`.Suppliers Suppliers  WHERE Categories.CategoryID = Products.CategoryID AND Customers.CustomerID = Orders.CustomerID AND Employees.EmployeeID = Orders.EmployeeID AND `Order Details`.OrderID = Orders.OrderID AND `Order Details`.ProductID = Products.ProductID AND Products.SupplierID = Suppliers.SupplierID AND Shippers.ShipperID = Orders.ShipVia  ORDER BY Orders.OrderID
+
+
+OrderID	OrderDate	EmployeeName	ShipperName	CustomerName	CustomerCountry	ProductName	Category	SuppliersName	Quantity	Price

@@ -1,0 +1,7 @@
+XLODBC
+1
+DBQ=I:\Code\XL-2000\NWIND.MDB;DefaultDir=I:\Code\XL-2000;Driver={Microsoft Access Driver (*.mdb)};DriverId=25;FIL=MS Access;MaxBufferSize=2048;MaxScanRows=8;PageTimeout=5;SafeTransactions=0;Threads=3;UserCommitSync=Yes;
+SELECT Employees.LastName, Sum(Quantity*UnitPrice) AS 'Sales'  FROM `I:\Code\XL-2000\Nwind`.Employees Employees, `I:\Code\XL-2000\Nwind`.`Order Details` `Order Details`, `I:\Code\XL-2000\Nwind`.Orders Orders  WHERE `Order Details`.OrderID = Orders.OrderID AND Employees.EmployeeID = Orders.EmployeeID  GROUP BY Employees.LastName  ORDER BY Sum(Quantity*UnitPrice) DESC
+
+
+LastName	Sales
